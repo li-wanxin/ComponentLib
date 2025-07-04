@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Circuit Protection-TVS/ESD
+LastFocusedTable=Beads
 [Table1]
 SchemaName=
 TableName=Beads
@@ -38,18 +38,12 @@ TableName=Capacitors-Super Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Type0=110|Description0=82|Library Ref0=77|Library Path0=121|Footprint Ref0=165|Footprint Path0=121|PCB3D Ref0=77|PCB3D Path0=83|Part Number0=87|Vendor0=99|Value0=61|Tolerance0=72|Type0=46|Suppiler0=66|Suppiler Number0=110|ComponentLink2Description0=170|ComponentLink2URL0=131|LatestRevisionDate0=120
 [Table4]
 SchemaName=
 TableName=Circuit Protection-TVS/ESD
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Component Type0=110|Vendor0=153|Value0=52|Tolerance0=72|Type0=46|Description0=354|Suppiler0=66|Suppiler Number0=110|Library Ref0=87|Library Path0=150|Footprint Ref0=92|Footprint Path0=177|PCB3D Ref0=77|PCB3D Path0=83|ComponentLink2Description0=170|ComponentLink2URL0=262|LatestRevisionDate0=120
 [Table5]
 SchemaName=
 TableName=Connectors-Battery
@@ -62,9 +56,6 @@ TableName=Connectors-Board to Board
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Component Type0=121|Description0=82|Library Ref0=103|Library Path0=169|Footprint Ref0=103|Footprint Path0=169|PCB3D Ref0=77|PCB3D Path0=83|Part Number0=87|Vendor0=61|Value0=52|Tolerance0=72|Type0=46|Suppiler0=66|Suppiler Number0=110|ComponentLink2Description0=170|ComponentLink2URL0=131|LatestRevisionDate0=120
 [Table7]
 SchemaName=
 TableName=Connectors-DIN41612
@@ -85,173 +76,167 @@ UserWhere=0
 UserWhereText=
 [Table10]
 SchemaName=
-TableName=Connectors-Female Headers
+TableName=Connectors-Headers
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table11]
 SchemaName=
-TableName=Connectors-Pin Headers
+TableName=Connectors-Plug
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table12]
 SchemaName=
-TableName=Connectors-Plug
+TableName=Connectors-USB Connectors
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table13]
 SchemaName=
-TableName=Connectors-USB Connectors
+TableName=Connectors-Wire to Board
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table14]
 SchemaName=
-TableName=Connectors-Wire to Board
+TableName=Diodes
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table15]
 SchemaName=
-TableName=Diodes
+TableName=Displays
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table16]
 SchemaName=
-TableName=Displays
+TableName=ICs-Amplifiers/Comparators
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table17]
 SchemaName=
-TableName=ICs-Amplifiers/Comparators
+TableName=ICs-Clock/Timing
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table18]
 SchemaName=
-TableName=ICs-Clock/Timing
+TableName=ICs-Data Acquisition
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table19]
 SchemaName=
-TableName=ICs-Data Acquisition
+TableName=ICs-Embedded Processors/Controllers
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table20]
 SchemaName=
-TableName=ICs-Embedded Processors/Controllers
+TableName=ICs-Interface
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table21]
 SchemaName=
-TableName=ICs-Interface
+TableName=ICs-Logic
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table22]
 SchemaName=
-TableName=ICs-Logic
+TableName=ICs-Memory
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table23]
 SchemaName=
-TableName=ICs-Memory
+TableName=ICs-Motor Driver
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table24]
 SchemaName=
-TableName=ICs-Motor Driver
+TableName=ICs-Power
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table25]
 SchemaName=
-TableName=ICs-Power
+TableName=ICs-Sensors
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table26]
 SchemaName=
-TableName=ICs-Sensors
+TableName=Inductors
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table27]
 SchemaName=
-TableName=Inductors
+TableName=LED/RGB LEDs
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table28]
 SchemaName=
-TableName=LED/RGB LEDs
+TableName=Modules-2G/3G/4G/5G
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table29]
 SchemaName=
-TableName=Modules-2G/3G/4G/5G
+TableName=Modules-GNSS
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table30]
 SchemaName=
-TableName=Modules-GNSS
+TableName=Oscillators-Crystals
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table31]
 SchemaName=
-TableName=Oscillators-Crystals
+TableName=Oscillators-Oscillators
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table32]
 SchemaName=
-TableName=Oscillators-Oscillators
+TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table33]
 SchemaName=
-TableName=Resistors
+TableName=Speakers
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table34]
 SchemaName=
-TableName=Speakers
+TableName=Switches
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table35]
 SchemaName=
-TableName=Switches
+TableName=Transformers
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table36]
 SchemaName=
-TableName=Transformers
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table37]
-SchemaName=
 TableName=Transistors-BJT
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table38]
+[Table37]
 SchemaName=
 TableName=Transistors-MOSFETs
 Enabled=True
@@ -402,466 +387,450 @@ Options=FieldName=Connectors-FFC/FPC.PCB3D Ref|TableNameOnly=Connectors-FFC/FPC|
 [FieldMap72]
 Options=FieldName=Connectors-FFC/FPC.PCB3D Path|TableNameOnly=Connectors-FFC/FPC|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap73]
-Options=FieldName=Connectors-Female Headers.Component Type|TableNameOnly=Connectors-Female Headers|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors-Headers.Component Type|TableNameOnly=Connectors-Headers|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap74]
-Options=FieldName=Connectors-Female Headers.Description|TableNameOnly=Connectors-Female Headers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors-Headers.Description|TableNameOnly=Connectors-Headers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap75]
-Options=FieldName=Connectors-Female Headers.Library Ref|TableNameOnly=Connectors-Female Headers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors-Headers.Library Ref|TableNameOnly=Connectors-Headers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap76]
-Options=FieldName=Connectors-Female Headers.Library Path|TableNameOnly=Connectors-Female Headers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors-Headers.Library Path|TableNameOnly=Connectors-Headers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap77]
-Options=FieldName=Connectors-Female Headers.Footprint Ref|TableNameOnly=Connectors-Female Headers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors-Headers.Footprint Ref|TableNameOnly=Connectors-Headers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap78]
-Options=FieldName=Connectors-Female Headers.Footprint Path|TableNameOnly=Connectors-Female Headers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors-Headers.Footprint Path|TableNameOnly=Connectors-Headers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap79]
-Options=FieldName=Connectors-Female Headers.PCB3D Ref|TableNameOnly=Connectors-Female Headers|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors-Headers.PCB3D Ref|TableNameOnly=Connectors-Headers|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap80]
-Options=FieldName=Connectors-Female Headers.PCB3D Path|TableNameOnly=Connectors-Female Headers|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors-Headers.PCB3D Path|TableNameOnly=Connectors-Headers|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap81]
-Options=FieldName=Connectors-Pin Headers.Component Type|TableNameOnly=Connectors-Pin Headers|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap82]
-Options=FieldName=Connectors-Pin Headers.Description|TableNameOnly=Connectors-Pin Headers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap83]
-Options=FieldName=Connectors-Pin Headers.Library Ref|TableNameOnly=Connectors-Pin Headers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap84]
-Options=FieldName=Connectors-Pin Headers.Library Path|TableNameOnly=Connectors-Pin Headers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap85]
-Options=FieldName=Connectors-Pin Headers.Footprint Ref|TableNameOnly=Connectors-Pin Headers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap86]
-Options=FieldName=Connectors-Pin Headers.Footprint Path|TableNameOnly=Connectors-Pin Headers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap87]
-Options=FieldName=Connectors-Pin Headers.PCB3D Ref|TableNameOnly=Connectors-Pin Headers|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap88]
-Options=FieldName=Connectors-Pin Headers.PCB3D Path|TableNameOnly=Connectors-Pin Headers|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap89]
 Options=FieldName=Connectors-Plug.Component Type|TableNameOnly=Connectors-Plug|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap90]
+[FieldMap82]
 Options=FieldName=Connectors-Plug.Description|TableNameOnly=Connectors-Plug|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap91]
+[FieldMap83]
 Options=FieldName=Connectors-Plug.Library Ref|TableNameOnly=Connectors-Plug|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap92]
+[FieldMap84]
 Options=FieldName=Connectors-Plug.Library Path|TableNameOnly=Connectors-Plug|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap93]
+[FieldMap85]
 Options=FieldName=Connectors-Plug.Footprint Ref|TableNameOnly=Connectors-Plug|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap94]
+[FieldMap86]
 Options=FieldName=Connectors-Plug.Footprint Path|TableNameOnly=Connectors-Plug|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap95]
+[FieldMap87]
 Options=FieldName=Connectors-Plug.PCB3D Ref|TableNameOnly=Connectors-Plug|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap96]
+[FieldMap88]
 Options=FieldName=Connectors-Plug.PCB3D Path|TableNameOnly=Connectors-Plug|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap97]
+[FieldMap89]
 Options=FieldName=Connectors-USB Connectors.Component Type|TableNameOnly=Connectors-USB Connectors|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap98]
+[FieldMap90]
 Options=FieldName=Connectors-USB Connectors.Description|TableNameOnly=Connectors-USB Connectors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap99]
+[FieldMap91]
 Options=FieldName=Connectors-USB Connectors.Library Ref|TableNameOnly=Connectors-USB Connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap100]
+[FieldMap92]
 Options=FieldName=Connectors-USB Connectors.Library Path|TableNameOnly=Connectors-USB Connectors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap101]
+[FieldMap93]
 Options=FieldName=Connectors-USB Connectors.Footprint Ref|TableNameOnly=Connectors-USB Connectors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap102]
+[FieldMap94]
 Options=FieldName=Connectors-USB Connectors.Footprint Path|TableNameOnly=Connectors-USB Connectors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap103]
+[FieldMap95]
 Options=FieldName=Connectors-USB Connectors.PCB3D Ref|TableNameOnly=Connectors-USB Connectors|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap104]
+[FieldMap96]
 Options=FieldName=Connectors-USB Connectors.PCB3D Path|TableNameOnly=Connectors-USB Connectors|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap105]
+[FieldMap97]
 Options=FieldName=Connectors-Wire to Board.Component Type|TableNameOnly=Connectors-Wire to Board|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap106]
+[FieldMap98]
 Options=FieldName=Connectors-Wire to Board.Description|TableNameOnly=Connectors-Wire to Board|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap107]
+[FieldMap99]
 Options=FieldName=Connectors-Wire to Board.Library Ref|TableNameOnly=Connectors-Wire to Board|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap108]
+[FieldMap100]
 Options=FieldName=Connectors-Wire to Board.Library Path|TableNameOnly=Connectors-Wire to Board|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap109]
+[FieldMap101]
 Options=FieldName=Connectors-Wire to Board.Footprint Ref|TableNameOnly=Connectors-Wire to Board|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap110]
+[FieldMap102]
 Options=FieldName=Connectors-Wire to Board.Footprint Path|TableNameOnly=Connectors-Wire to Board|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap111]
+[FieldMap103]
 Options=FieldName=Connectors-Wire to Board.PCB3D Ref|TableNameOnly=Connectors-Wire to Board|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap112]
+[FieldMap104]
 Options=FieldName=Connectors-Wire to Board.PCB3D Path|TableNameOnly=Connectors-Wire to Board|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap113]
+[FieldMap105]
 Options=FieldName=Diodes.Component Type|TableNameOnly=Diodes|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap114]
+[FieldMap106]
 Options=FieldName=Diodes.Description|TableNameOnly=Diodes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap115]
+[FieldMap107]
 Options=FieldName=Diodes.Library Ref|TableNameOnly=Diodes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap116]
+[FieldMap108]
 Options=FieldName=Diodes.Library Path|TableNameOnly=Diodes|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap117]
+[FieldMap109]
 Options=FieldName=Diodes.Footprint Ref|TableNameOnly=Diodes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap118]
+[FieldMap110]
 Options=FieldName=Diodes.Footprint Path|TableNameOnly=Diodes|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap119]
+[FieldMap111]
 Options=FieldName=Diodes.PCB3D Ref|TableNameOnly=Diodes|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap120]
+[FieldMap112]
 Options=FieldName=Diodes.PCB3D Path|TableNameOnly=Diodes|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap121]
+[FieldMap113]
 Options=FieldName=Displays.Component Type|TableNameOnly=Displays|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap122]
+[FieldMap114]
 Options=FieldName=Displays.Description|TableNameOnly=Displays|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap123]
+[FieldMap115]
 Options=FieldName=Displays.Library Ref|TableNameOnly=Displays|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap124]
+[FieldMap116]
 Options=FieldName=Displays.Library Path|TableNameOnly=Displays|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap125]
+[FieldMap117]
 Options=FieldName=Displays.Footprint Ref|TableNameOnly=Displays|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap126]
+[FieldMap118]
 Options=FieldName=Displays.Footprint Path|TableNameOnly=Displays|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap127]
+[FieldMap119]
 Options=FieldName=Displays.PCB3D Ref|TableNameOnly=Displays|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap128]
+[FieldMap120]
 Options=FieldName=Displays.PCB3D Path|TableNameOnly=Displays|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap129]
+[FieldMap121]
 Options=FieldName=ICs-Amplifiers/Comparators.Component Type|TableNameOnly=ICs-Amplifiers/Comparators|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap130]
+[FieldMap122]
 Options=FieldName=ICs-Amplifiers/Comparators.Description|TableNameOnly=ICs-Amplifiers/Comparators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap131]
+[FieldMap123]
 Options=FieldName=ICs-Amplifiers/Comparators.Library Ref|TableNameOnly=ICs-Amplifiers/Comparators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap132]
+[FieldMap124]
 Options=FieldName=ICs-Amplifiers/Comparators.Library Path|TableNameOnly=ICs-Amplifiers/Comparators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap133]
+[FieldMap125]
 Options=FieldName=ICs-Amplifiers/Comparators.Footprint Ref|TableNameOnly=ICs-Amplifiers/Comparators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap134]
+[FieldMap126]
 Options=FieldName=ICs-Amplifiers/Comparators.Footprint Path|TableNameOnly=ICs-Amplifiers/Comparators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap135]
+[FieldMap127]
 Options=FieldName=ICs-Amplifiers/Comparators.PCB3D Ref|TableNameOnly=ICs-Amplifiers/Comparators|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap136]
+[FieldMap128]
 Options=FieldName=ICs-Amplifiers/Comparators.PCB3D Path|TableNameOnly=ICs-Amplifiers/Comparators|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap137]
+[FieldMap129]
 Options=FieldName=ICs-Clock/Timing.Component Type|TableNameOnly=ICs-Clock/Timing|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap138]
+[FieldMap130]
 Options=FieldName=ICs-Clock/Timing.Description|TableNameOnly=ICs-Clock/Timing|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap139]
+[FieldMap131]
 Options=FieldName=ICs-Clock/Timing.Library Ref|TableNameOnly=ICs-Clock/Timing|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap140]
+[FieldMap132]
 Options=FieldName=ICs-Clock/Timing.Library Path|TableNameOnly=ICs-Clock/Timing|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap141]
+[FieldMap133]
 Options=FieldName=ICs-Clock/Timing.Footprint Ref|TableNameOnly=ICs-Clock/Timing|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap142]
+[FieldMap134]
 Options=FieldName=ICs-Clock/Timing.Footprint Path|TableNameOnly=ICs-Clock/Timing|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap143]
+[FieldMap135]
 Options=FieldName=ICs-Clock/Timing.PCB3D Ref|TableNameOnly=ICs-Clock/Timing|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap144]
+[FieldMap136]
 Options=FieldName=ICs-Clock/Timing.PCB3D Path|TableNameOnly=ICs-Clock/Timing|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap145]
+[FieldMap137]
 Options=FieldName=ICs-Data Acquisition.Component Type|TableNameOnly=ICs-Data Acquisition|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap146]
+[FieldMap138]
 Options=FieldName=ICs-Data Acquisition.Description|TableNameOnly=ICs-Data Acquisition|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap147]
+[FieldMap139]
 Options=FieldName=ICs-Data Acquisition.Library Ref|TableNameOnly=ICs-Data Acquisition|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap148]
+[FieldMap140]
 Options=FieldName=ICs-Data Acquisition.Library Path|TableNameOnly=ICs-Data Acquisition|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap149]
+[FieldMap141]
 Options=FieldName=ICs-Data Acquisition.Footprint Ref|TableNameOnly=ICs-Data Acquisition|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap150]
+[FieldMap142]
 Options=FieldName=ICs-Data Acquisition.Footprint Path|TableNameOnly=ICs-Data Acquisition|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap151]
+[FieldMap143]
 Options=FieldName=ICs-Data Acquisition.PCB3D Ref|TableNameOnly=ICs-Data Acquisition|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap152]
+[FieldMap144]
 Options=FieldName=ICs-Data Acquisition.PCB3D Path|TableNameOnly=ICs-Data Acquisition|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap153]
+[FieldMap145]
 Options=FieldName=ICs-Embedded Processors/Controllers.Component Type|TableNameOnly=ICs-Embedded Processors/Controllers|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap154]
+[FieldMap146]
 Options=FieldName=ICs-Embedded Processors/Controllers.Description|TableNameOnly=ICs-Embedded Processors/Controllers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap155]
+[FieldMap147]
 Options=FieldName=ICs-Embedded Processors/Controllers.Library Ref|TableNameOnly=ICs-Embedded Processors/Controllers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap156]
+[FieldMap148]
 Options=FieldName=ICs-Embedded Processors/Controllers.Library Path|TableNameOnly=ICs-Embedded Processors/Controllers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap157]
+[FieldMap149]
 Options=FieldName=ICs-Embedded Processors/Controllers.Footprint Ref|TableNameOnly=ICs-Embedded Processors/Controllers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap158]
+[FieldMap150]
 Options=FieldName=ICs-Embedded Processors/Controllers.Footprint Path|TableNameOnly=ICs-Embedded Processors/Controllers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap159]
+[FieldMap151]
 Options=FieldName=ICs-Embedded Processors/Controllers.PCB3D Ref|TableNameOnly=ICs-Embedded Processors/Controllers|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap160]
+[FieldMap152]
 Options=FieldName=ICs-Embedded Processors/Controllers.PCB3D Path|TableNameOnly=ICs-Embedded Processors/Controllers|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap161]
+[FieldMap153]
 Options=FieldName=ICs-Interface.Component Type|TableNameOnly=ICs-Interface|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap162]
+[FieldMap154]
 Options=FieldName=ICs-Interface.Description|TableNameOnly=ICs-Interface|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap163]
+[FieldMap155]
 Options=FieldName=ICs-Interface.Library Ref|TableNameOnly=ICs-Interface|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap164]
+[FieldMap156]
 Options=FieldName=ICs-Interface.Library Path|TableNameOnly=ICs-Interface|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap165]
+[FieldMap157]
 Options=FieldName=ICs-Interface.Footprint Ref|TableNameOnly=ICs-Interface|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap166]
+[FieldMap158]
 Options=FieldName=ICs-Interface.Footprint Path|TableNameOnly=ICs-Interface|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap167]
+[FieldMap159]
 Options=FieldName=ICs-Interface.PCB3D Ref|TableNameOnly=ICs-Interface|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap168]
+[FieldMap160]
 Options=FieldName=ICs-Interface.PCB3D Path|TableNameOnly=ICs-Interface|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap169]
+[FieldMap161]
 Options=FieldName=ICs-Logic.Component Type|TableNameOnly=ICs-Logic|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap170]
+[FieldMap162]
 Options=FieldName=ICs-Logic.Description|TableNameOnly=ICs-Logic|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap171]
+[FieldMap163]
 Options=FieldName=ICs-Logic.Library Ref|TableNameOnly=ICs-Logic|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap172]
+[FieldMap164]
 Options=FieldName=ICs-Logic.Library Path|TableNameOnly=ICs-Logic|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap173]
+[FieldMap165]
 Options=FieldName=ICs-Logic.Footprint Ref|TableNameOnly=ICs-Logic|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap174]
+[FieldMap166]
 Options=FieldName=ICs-Logic.Footprint Path|TableNameOnly=ICs-Logic|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap175]
+[FieldMap167]
 Options=FieldName=ICs-Logic.PCB3D Ref|TableNameOnly=ICs-Logic|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap176]
+[FieldMap168]
 Options=FieldName=ICs-Logic.PCB3D Path|TableNameOnly=ICs-Logic|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap177]
+[FieldMap169]
 Options=FieldName=ICs-Memory.Component Type|TableNameOnly=ICs-Memory|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap178]
+[FieldMap170]
 Options=FieldName=ICs-Memory.Description|TableNameOnly=ICs-Memory|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap179]
+[FieldMap171]
 Options=FieldName=ICs-Memory.Library Ref|TableNameOnly=ICs-Memory|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap180]
+[FieldMap172]
 Options=FieldName=ICs-Memory.Library Path|TableNameOnly=ICs-Memory|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap181]
+[FieldMap173]
 Options=FieldName=ICs-Memory.Footprint Ref|TableNameOnly=ICs-Memory|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap182]
+[FieldMap174]
 Options=FieldName=ICs-Memory.Footprint Path|TableNameOnly=ICs-Memory|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap183]
+[FieldMap175]
 Options=FieldName=ICs-Memory.PCB3D Ref|TableNameOnly=ICs-Memory|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap184]
+[FieldMap176]
 Options=FieldName=ICs-Memory.PCB3D Path|TableNameOnly=ICs-Memory|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap185]
+[FieldMap177]
 Options=FieldName=ICs-Motor Driver.Component Type|TableNameOnly=ICs-Motor Driver|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap186]
+[FieldMap178]
 Options=FieldName=ICs-Motor Driver.Description|TableNameOnly=ICs-Motor Driver|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap187]
+[FieldMap179]
 Options=FieldName=ICs-Motor Driver.Library Ref|TableNameOnly=ICs-Motor Driver|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap188]
+[FieldMap180]
 Options=FieldName=ICs-Motor Driver.Library Path|TableNameOnly=ICs-Motor Driver|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap189]
+[FieldMap181]
 Options=FieldName=ICs-Motor Driver.Footprint Ref|TableNameOnly=ICs-Motor Driver|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap190]
+[FieldMap182]
 Options=FieldName=ICs-Motor Driver.Footprint Path|TableNameOnly=ICs-Motor Driver|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap191]
+[FieldMap183]
 Options=FieldName=ICs-Motor Driver.PCB3D Ref|TableNameOnly=ICs-Motor Driver|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap192]
+[FieldMap184]
 Options=FieldName=ICs-Motor Driver.PCB3D Path|TableNameOnly=ICs-Motor Driver|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap193]
+[FieldMap185]
 Options=FieldName=ICs-Power.Component Type|TableNameOnly=ICs-Power|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap194]
+[FieldMap186]
 Options=FieldName=ICs-Power.Description|TableNameOnly=ICs-Power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap195]
+[FieldMap187]
 Options=FieldName=ICs-Power.Library Ref|TableNameOnly=ICs-Power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap196]
+[FieldMap188]
 Options=FieldName=ICs-Power.Library Path|TableNameOnly=ICs-Power|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap197]
+[FieldMap189]
 Options=FieldName=ICs-Power.Footprint Ref|TableNameOnly=ICs-Power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap198]
+[FieldMap190]
 Options=FieldName=ICs-Power.Footprint Path|TableNameOnly=ICs-Power|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap199]
+[FieldMap191]
 Options=FieldName=ICs-Power.PCB3D Ref|TableNameOnly=ICs-Power|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap200]
+[FieldMap192]
 Options=FieldName=ICs-Power.PCB3D Path|TableNameOnly=ICs-Power|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap201]
+[FieldMap193]
 Options=FieldName=ICs-Sensors.Component Type|TableNameOnly=ICs-Sensors|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap202]
+[FieldMap194]
 Options=FieldName=ICs-Sensors.Description|TableNameOnly=ICs-Sensors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap203]
+[FieldMap195]
 Options=FieldName=ICs-Sensors.Library Ref|TableNameOnly=ICs-Sensors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap204]
+[FieldMap196]
 Options=FieldName=ICs-Sensors.Library Path|TableNameOnly=ICs-Sensors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap205]
+[FieldMap197]
 Options=FieldName=ICs-Sensors.Footprint Ref|TableNameOnly=ICs-Sensors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap206]
+[FieldMap198]
 Options=FieldName=ICs-Sensors.Footprint Path|TableNameOnly=ICs-Sensors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap207]
+[FieldMap199]
 Options=FieldName=ICs-Sensors.PCB3D Ref|TableNameOnly=ICs-Sensors|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap208]
+[FieldMap200]
 Options=FieldName=ICs-Sensors.PCB3D Path|TableNameOnly=ICs-Sensors|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap209]
+[FieldMap201]
 Options=FieldName=Inductors.Component Type|TableNameOnly=Inductors|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap210]
+[FieldMap202]
 Options=FieldName=Inductors.Description|TableNameOnly=Inductors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap211]
+[FieldMap203]
 Options=FieldName=Inductors.Library Ref|TableNameOnly=Inductors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap212]
+[FieldMap204]
 Options=FieldName=Inductors.Library Path|TableNameOnly=Inductors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap213]
+[FieldMap205]
 Options=FieldName=Inductors.Footprint Ref|TableNameOnly=Inductors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap214]
+[FieldMap206]
 Options=FieldName=Inductors.Footprint Path|TableNameOnly=Inductors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap215]
+[FieldMap207]
 Options=FieldName=Inductors.PCB3D Ref|TableNameOnly=Inductors|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap216]
+[FieldMap208]
 Options=FieldName=Inductors.PCB3D Path|TableNameOnly=Inductors|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap217]
+[FieldMap209]
 Options=FieldName=LED/RGB LEDs.Component Type|TableNameOnly=LED/RGB LEDs|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap218]
+[FieldMap210]
 Options=FieldName=LED/RGB LEDs.Description|TableNameOnly=LED/RGB LEDs|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap219]
+[FieldMap211]
 Options=FieldName=LED/RGB LEDs.Library Ref|TableNameOnly=LED/RGB LEDs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap220]
+[FieldMap212]
 Options=FieldName=LED/RGB LEDs.Library Path|TableNameOnly=LED/RGB LEDs|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap221]
+[FieldMap213]
 Options=FieldName=LED/RGB LEDs.Footprint Ref|TableNameOnly=LED/RGB LEDs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap222]
+[FieldMap214]
 Options=FieldName=LED/RGB LEDs.Footprint Path|TableNameOnly=LED/RGB LEDs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap223]
+[FieldMap215]
 Options=FieldName=LED/RGB LEDs.PCB3D Ref|TableNameOnly=LED/RGB LEDs|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap224]
+[FieldMap216]
 Options=FieldName=LED/RGB LEDs.PCB3D Path|TableNameOnly=LED/RGB LEDs|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap225]
+[FieldMap217]
 Options=FieldName=Modules-2G/3G/4G/5G.Component Type|TableNameOnly=Modules-2G/3G/4G/5G|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap226]
+[FieldMap218]
 Options=FieldName=Modules-2G/3G/4G/5G.Description|TableNameOnly=Modules-2G/3G/4G/5G|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap227]
+[FieldMap219]
 Options=FieldName=Modules-2G/3G/4G/5G.Library Ref|TableNameOnly=Modules-2G/3G/4G/5G|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap228]
+[FieldMap220]
 Options=FieldName=Modules-2G/3G/4G/5G.Library Path|TableNameOnly=Modules-2G/3G/4G/5G|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap229]
+[FieldMap221]
 Options=FieldName=Modules-2G/3G/4G/5G.Footprint Ref|TableNameOnly=Modules-2G/3G/4G/5G|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap230]
+[FieldMap222]
 Options=FieldName=Modules-2G/3G/4G/5G.Footprint Path|TableNameOnly=Modules-2G/3G/4G/5G|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap231]
+[FieldMap223]
 Options=FieldName=Modules-2G/3G/4G/5G.PCB3D Ref|TableNameOnly=Modules-2G/3G/4G/5G|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap232]
+[FieldMap224]
 Options=FieldName=Modules-2G/3G/4G/5G.PCB3D Path|TableNameOnly=Modules-2G/3G/4G/5G|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap233]
+[FieldMap225]
 Options=FieldName=Modules-GNSS.Component Type|TableNameOnly=Modules-GNSS|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap234]
+[FieldMap226]
 Options=FieldName=Modules-GNSS.Description|TableNameOnly=Modules-GNSS|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap235]
+[FieldMap227]
 Options=FieldName=Modules-GNSS.Library Ref|TableNameOnly=Modules-GNSS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap236]
+[FieldMap228]
 Options=FieldName=Modules-GNSS.Library Path|TableNameOnly=Modules-GNSS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap237]
+[FieldMap229]
 Options=FieldName=Modules-GNSS.Footprint Ref|TableNameOnly=Modules-GNSS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap238]
+[FieldMap230]
 Options=FieldName=Modules-GNSS.Footprint Path|TableNameOnly=Modules-GNSS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap239]
+[FieldMap231]
 Options=FieldName=Modules-GNSS.PCB3D Ref|TableNameOnly=Modules-GNSS|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap240]
+[FieldMap232]
 Options=FieldName=Modules-GNSS.PCB3D Path|TableNameOnly=Modules-GNSS|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap241]
+[FieldMap233]
 Options=FieldName=Oscillators-Crystals.Component Type|TableNameOnly=Oscillators-Crystals|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap242]
+[FieldMap234]
 Options=FieldName=Oscillators-Crystals.Description|TableNameOnly=Oscillators-Crystals|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap243]
+[FieldMap235]
 Options=FieldName=Oscillators-Crystals.Library Ref|TableNameOnly=Oscillators-Crystals|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap244]
+[FieldMap236]
 Options=FieldName=Oscillators-Crystals.Library Path|TableNameOnly=Oscillators-Crystals|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap245]
+[FieldMap237]
 Options=FieldName=Oscillators-Crystals.Footprint Ref|TableNameOnly=Oscillators-Crystals|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap246]
+[FieldMap238]
 Options=FieldName=Oscillators-Crystals.Footprint Path|TableNameOnly=Oscillators-Crystals|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap247]
+[FieldMap239]
 Options=FieldName=Oscillators-Crystals.PCB3D Ref|TableNameOnly=Oscillators-Crystals|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap248]
+[FieldMap240]
 Options=FieldName=Oscillators-Crystals.PCB3D Path|TableNameOnly=Oscillators-Crystals|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap249]
+[FieldMap241]
 Options=FieldName=Oscillators-Oscillators.Component Type|TableNameOnly=Oscillators-Oscillators|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap250]
+[FieldMap242]
 Options=FieldName=Oscillators-Oscillators.Description|TableNameOnly=Oscillators-Oscillators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap251]
+[FieldMap243]
 Options=FieldName=Oscillators-Oscillators.Library Ref|TableNameOnly=Oscillators-Oscillators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap252]
+[FieldMap244]
 Options=FieldName=Oscillators-Oscillators.Library Path|TableNameOnly=Oscillators-Oscillators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap253]
+[FieldMap245]
 Options=FieldName=Oscillators-Oscillators.Footprint Ref|TableNameOnly=Oscillators-Oscillators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap254]
+[FieldMap246]
 Options=FieldName=Oscillators-Oscillators.Footprint Path|TableNameOnly=Oscillators-Oscillators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap255]
+[FieldMap247]
 Options=FieldName=Oscillators-Oscillators.PCB3D Ref|TableNameOnly=Oscillators-Oscillators|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap256]
+[FieldMap248]
 Options=FieldName=Oscillators-Oscillators.PCB3D Path|TableNameOnly=Oscillators-Oscillators|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap257]
+[FieldMap249]
 Options=FieldName=Resistors.Component Type|TableNameOnly=Resistors|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap258]
+[FieldMap250]
 Options=FieldName=Resistors.Description|TableNameOnly=Resistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap259]
+[FieldMap251]
 Options=FieldName=Resistors.Library Ref|TableNameOnly=Resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap260]
+[FieldMap252]
 Options=FieldName=Resistors.Library Path|TableNameOnly=Resistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap261]
+[FieldMap253]
 Options=FieldName=Resistors.Footprint Ref|TableNameOnly=Resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap262]
+[FieldMap254]
 Options=FieldName=Resistors.Footprint Path|TableNameOnly=Resistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap263]
+[FieldMap255]
 Options=FieldName=Resistors.PCB3D Ref|TableNameOnly=Resistors|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap264]
+[FieldMap256]
 Options=FieldName=Resistors.PCB3D Path|TableNameOnly=Resistors|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap265]
+[FieldMap257]
 Options=FieldName=Speakers.Component Type|TableNameOnly=Speakers|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap266]
+[FieldMap258]
 Options=FieldName=Speakers.Description|TableNameOnly=Speakers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap267]
+[FieldMap259]
 Options=FieldName=Speakers.Library Ref|TableNameOnly=Speakers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap268]
+[FieldMap260]
 Options=FieldName=Speakers.Library Path|TableNameOnly=Speakers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap269]
+[FieldMap261]
 Options=FieldName=Speakers.Footprint Ref|TableNameOnly=Speakers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap270]
+[FieldMap262]
 Options=FieldName=Speakers.Footprint Path|TableNameOnly=Speakers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap271]
+[FieldMap263]
 Options=FieldName=Speakers.PCB3D Ref|TableNameOnly=Speakers|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap272]
+[FieldMap264]
 Options=FieldName=Speakers.PCB3D Path|TableNameOnly=Speakers|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap273]
+[FieldMap265]
 Options=FieldName=Switches.Component Type|TableNameOnly=Switches|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap274]
+[FieldMap266]
 Options=FieldName=Switches.Description|TableNameOnly=Switches|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap275]
+[FieldMap267]
 Options=FieldName=Switches.Library Ref|TableNameOnly=Switches|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap276]
+[FieldMap268]
 Options=FieldName=Switches.Library Path|TableNameOnly=Switches|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap277]
+[FieldMap269]
 Options=FieldName=Switches.Footprint Ref|TableNameOnly=Switches|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap278]
+[FieldMap270]
 Options=FieldName=Switches.Footprint Path|TableNameOnly=Switches|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap279]
+[FieldMap271]
 Options=FieldName=Switches.PCB3D Ref|TableNameOnly=Switches|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap280]
+[FieldMap272]
 Options=FieldName=Switches.PCB3D Path|TableNameOnly=Switches|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap281]
+[FieldMap273]
 Options=FieldName=Transformers.Component Type|TableNameOnly=Transformers|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap282]
+[FieldMap274]
 Options=FieldName=Transformers.Description|TableNameOnly=Transformers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap283]
+[FieldMap275]
 Options=FieldName=Transformers.Library Ref|TableNameOnly=Transformers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap284]
+[FieldMap276]
 Options=FieldName=Transformers.Library Path|TableNameOnly=Transformers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap285]
+[FieldMap277]
 Options=FieldName=Transformers.Footprint Ref|TableNameOnly=Transformers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap286]
+[FieldMap278]
 Options=FieldName=Transformers.Footprint Path|TableNameOnly=Transformers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap287]
+[FieldMap279]
 Options=FieldName=Transformers.PCB3D Ref|TableNameOnly=Transformers|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap288]
+[FieldMap280]
 Options=FieldName=Transformers.PCB3D Path|TableNameOnly=Transformers|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap289]
+[FieldMap281]
 Options=FieldName=Transistors-BJT.Component Type|TableNameOnly=Transistors-BJT|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap290]
+[FieldMap282]
 Options=FieldName=Transistors-BJT.Description|TableNameOnly=Transistors-BJT|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap291]
+[FieldMap283]
 Options=FieldName=Transistors-BJT.Library Ref|TableNameOnly=Transistors-BJT|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap292]
+[FieldMap284]
 Options=FieldName=Transistors-BJT.Library Path|TableNameOnly=Transistors-BJT|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap293]
+[FieldMap285]
 Options=FieldName=Transistors-BJT.Footprint Ref|TableNameOnly=Transistors-BJT|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap294]
+[FieldMap286]
 Options=FieldName=Transistors-BJT.Footprint Path|TableNameOnly=Transistors-BJT|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap295]
+[FieldMap287]
 Options=FieldName=Transistors-BJT.PCB3D Ref|TableNameOnly=Transistors-BJT|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap296]
+[FieldMap288]
 Options=FieldName=Transistors-BJT.PCB3D Path|TableNameOnly=Transistors-BJT|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap297]
+[FieldMap289]
 Options=FieldName=Transistors-MOSFETs.Component Type|TableNameOnly=Transistors-MOSFETs|FieldNameOnly=Component Type|FieldType=0|ParameterName=Component Type|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap298]
+[FieldMap290]
 Options=FieldName=Transistors-MOSFETs.Description|TableNameOnly=Transistors-MOSFETs|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap299]
+[FieldMap291]
 Options=FieldName=Transistors-MOSFETs.Library Ref|TableNameOnly=Transistors-MOSFETs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap300]
+[FieldMap292]
 Options=FieldName=Transistors-MOSFETs.Library Path|TableNameOnly=Transistors-MOSFETs|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap301]
+[FieldMap293]
 Options=FieldName=Transistors-MOSFETs.Footprint Ref|TableNameOnly=Transistors-MOSFETs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap302]
+[FieldMap294]
 Options=FieldName=Transistors-MOSFETs.Footprint Path|TableNameOnly=Transistors-MOSFETs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap303]
+[FieldMap295]
 Options=FieldName=Transistors-MOSFETs.PCB3D Ref|TableNameOnly=Transistors-MOSFETs|FieldNameOnly=PCB3D Ref|FieldType=1|ParameterName=[PCB3D Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap304]
+[FieldMap296]
 Options=FieldName=Transistors-MOSFETs.PCB3D Path|TableNameOnly=Transistors-MOSFETs|FieldNameOnly=PCB3D Path|FieldType=1|ParameterName=[PCB3D Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
