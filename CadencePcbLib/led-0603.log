@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : led-0603.dra                                  )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Fri Nov 20 01:01:05 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/ComponentLib/CadencePcbLib
+    Name      = led-0603.psm
+    User      = liwanxin
+    Machine   = LIWANXIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

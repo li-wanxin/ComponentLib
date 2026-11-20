@@ -1,0 +1,96 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : unnamed.brd                                   )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Fri Nov 20 08:17:26 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (72 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / ESP32-WROOM-32E_MODULE-38_18R0X25R5_P1R27_ESP32-WROOM-32E_ESP32-WROOM-32E / MODULE-38_18R0X25R5_P1R27_ESP32-WROOM-32E at (15100.0 5400.0)
+         Placed symbol:  U3 / SY8301_SOT23-6_SY8301 / SOT23-6 at (15545.0 5067.5)
+         Placed symbol:  J1 / CON-6PIN_CON-B06B-PASK-1_B06B-PASK-1(LF)(SN) / CON-B06B-PASK-1 at (14999.6 6136.3)
+         Placed symbol:  Q2 / BJT-NPN_3PIN_SOT-23_MMBT3904LT1G / SOT-23 at (15351.0 6096.9)
+         Placed symbol:  U2 / LDO_3P_SOT89-3L_AP7215-33YG-13 / SOT89-3L at (15509.6 6061.6)
+         Placed symbol:  Q3 / BJT-NPN_3PIN_SOT-23_MMBT3904LT1G / SOT-23 at (15668.2 6096.9)
+         Placed symbol:  Q1 / MOSFET-P_3PIN_SOT-23_SI2309A / SOT-23 at (15796.2 6096.9)
+         Placed symbol:  C13 / CAP_C0805_22UF/25V / C0805 at (14784.0 6284.0)
+         Placed symbol:  C12 / CAP_C0603_100PF/50V / C0603 at (14899.2 6276.1)
+         Placed symbol:  C15 / CAP_C0603_1UF/16V / C0603 at (15001.6 6276.1)
+         Placed symbol:  C14 / CAP_C0805_22UF/25V / C0805 at (15116.8 6284.0)
+         Placed symbol:  C11 / CAP_C1206_10UF/50V / C1206 at (15283.2 6296.3)
+         Placed symbol:  C3 / CAP_C0603_1UF/16V / C0603 at (15437.4 6276.1)
+         Placed symbol:  C18 / CAP_C0603_NC / C0603 at (15539.8 6276.1)
+         Placed symbol:  C19 / CAP_C0603_NC / C0603 at (15642.2 6276.1)
+         Placed symbol:  C2 / CAP_C0603_22UF/6.3V / C0603 at (15744.6 6276.1)
+         Placed symbol:  C6 / CAP_C0603_1UF/16V / C0603 at (15847.0 6276.1)
+         Placed symbol:  D1 / TVS-BI_SMB_TVS_BI_SMBJ26CA / SMB_TVS_BI at (14848.1 6415.0)
+         Placed symbol:  C8 / CAP_C0603_1UF/16V / C0603 at (15027.3 6363.8)
+         Placed symbol:  C10 / CAP_C1206_10UF/50V / C1206 at (15180.9 6384.0)
+         Placed symbol:  C7 / CAP_C0603_10UF/10V / C0603 at (15335.1 6363.8)
+         Placed symbol:  D5 / LED-2PIN-BLUE_LED-0603_BLUE LED / LED-0603 at (15427.7 6363.8)
+         Placed symbol:  D7 / LED-2PIN-GREEN_LED-0603_GREEN LED / LED-0603 at (15510.5 6363.8)
+         Placed symbol:  D8 / LED-2PIN-GREEN_LED-0603_GREEN LED / LED-0603 at (15593.3 6363.8)
+         Placed symbol:  F1 / FUSE-2PIN_FUSE-1812_33V/1.1A / FUSE-1812 at (15758.8 6409.1)
+         Placed symbol:  C9 / CAP_C0603_100NF/50V / C0603 at (14771.2 6513.6)
+         Placed symbol:  C5 / CAP_C0603_100NF/50V / C0603 at (14873.6 6513.6)
+         Placed symbol:  K1 / SW-2P_SW-2_3R0X4R0X2R0_SW-2P / SW-2_3R0X4R0X2R0 at (15037.1 6553.0)
+         Placed symbol:  D2 / ZENER DIODE-2PIN_SOD-123_BZT52C5V1 / SOD-123 at (15251.8 6525.4)
+         Placed symbol:  C4 / CAP_C0603_100NF/50V / C0603 at (15405.4 6513.6)
+         Placed symbol:  C20 / CAP_C0603_100NF/50V / C0603 at (15507.8 6513.6)
+         Placed symbol:  L1 / INDUCTOR_IND-4030_6.8UH / IND-4030 at (15649.6 6574.6)
+         Placed symbol:  D3 / DIODE-2PIN_SOD-123_1N4148W / SOD-123 at (14822.4 6694.8)
+         Placed symbol:  C17 / CAP_C0603_100NF/50V / C0603 at (14976.0 6683.0)
+         Placed symbol:  D4 / DIODE-2PIN_SOD-123_1N4148W / SOD-123 at (15129.6 6694.8)
+         Placed symbol:  R1 / RES_R0603_10K / R0603 at (15282.3 6681.0)
+         Placed symbol:  K2 / SW-2P_SW-2_3R0X4R0X2R0_SW-2P / SW-2_3R0X4R0X2R0 at (15444.9 6722.4)
+         Placed symbol:  R15 / RES_R0603_10K / R0603 at (15607.5 6681.0)
+         Placed symbol:  R16 / RES_R0603_10K / R0603 at (15708.1 6681.0)
+         Placed symbol:  R17 / RES_R0603_10K / R0603 at (15808.7 6681.0)
+         Placed symbol:  R18 / RES_R0603_10K / R0603 at (14770.3 6807.2)
+         Placed symbol:  R2 / RES_R0603_10K / R0603 at (14870.9 6807.2)
+         Placed symbol:  R3 / RES_R0603_10K / R0603 at (14971.5 6807.2)
+         Placed symbol:  R9 / RES_R0603_10K / R0603 at (15072.1 6807.2)
+         Placed symbol:  R11 / RES_R0603_1K / R0603 at (15172.7 6807.2)
+         Placed symbol:  R14 / RES_R0603_1K / R0603 at (15273.3 6807.2)
+         Placed symbol:  R12 / RES_R0603_NC / R0603 at (15373.9 6807.2)
+         Placed symbol:  R13 / RES_R0603_NC / R0603 at (15474.5 6807.2)
+         Placed symbol:  R4 / RES_R0603_0R / R0603 at (15575.1 6807.2)
+         Placed symbol:  R5 / RES_R0603_0R / R0603 at (15675.7 6807.2)
+         Placed symbol:  R8 / RES_R0603_0R / R0603 at (15776.3 6807.2)
+         Placed symbol:  R6 / RES_R0603_105K / R0603 at (14770.3 6850.6)
+         Placed symbol:  R7 / RES_R0603_20K / R0603 at (14870.9 6850.6)
+         Placed symbol:  R10 / RES_R0603_10K / R0603 at (14971.5 6850.6)
+         Placed symbol:  C1 / CAP_C0603_100NF/50V / C0603 at (15073.0 6852.6)
+         Placed symbol:  C16 / CAP_C0603_100NF/50V / C0603 at (15175.4 6852.6)
+         Placed symbol:  TP2 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15252.3 6854.6)
+         Placed symbol:  TP12 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15303.6 6854.6)
+         Placed symbol:  TP13 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15354.9 6854.6)
+         Placed symbol:  TP3 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15406.2 6854.6)
+         Placed symbol:  TP11 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15457.5 6854.6)
+         Placed symbol:  TP4 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15508.8 6854.6)
+         Placed symbol:  TP6 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15560.1 6854.6)
+         Placed symbol:  TP7 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15611.4 6854.6)
+         Placed symbol:  TP8 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15662.7 6854.6)
+         Placed symbol:  TP9 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15714.0 6854.6)
+         Placed symbol:  TP5 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15765.3 6854.6)
+         Placed symbol:  TP1 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15816.6 6854.6)
+         Placed symbol:  TP10 / TEST POINT_TP-1R0_TEST POINT / TP-1R0 at (15867.9 6854.6)
+
+
+Placed 69 of 69 applicable (72 total) symbols.
+
+-----------------------------------------------------------------------
+

@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : unnamed.brd                                   )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Fri Nov 20 08:25:52 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	E:/ComponentLib/CadencePcbLib
+
+
+All Symbols Found
+
+Total symbols placed:      71 out of 72
+
+
+Symbol Found:  J2	- E:/ComponentLib/CadencePcbLib/hdr-2r54_4p.psm
